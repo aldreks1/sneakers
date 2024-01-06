@@ -1,3 +1,4 @@
 https://65956e1304335332df82b898.mockapi.io/items - итемы
 https://65956e1304335332df82b898.mockapi.io/cart- корзина
 https://6596c9ff6bb4ec36ca0354e4.mockapi.io/favorites - избранное
+https://6596c9ff6bb4ec36ca0354e4.mockapi.io/orders - заказы
