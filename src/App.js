@@ -105,6 +105,7 @@ function App() {
             onChangeSearchInput={onChangeSearchInput}
             onAddToFavorite={onAddToFavorite}
             onAddToCart={onAddToCart}
+            isLoading={isLoading}
             />
           }
           exact
